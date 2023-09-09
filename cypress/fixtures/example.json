@@ -1,0 +1,23 @@
+[
+  {
+  "username": "SuperAdmin",
+  "password": "abc123"
+},
+{
+  "username": "Zohaib.13",
+  "password": "abcd12"
+},
+{
+  "firstName": "Super",
+  "lastname" : "Admin",
+  "address":"Devsinc Tower, Ghazi Road",
+  "city":"Lahore",
+  "state": "Pakistan",
+  "zipcode" : "54810",
+  "Phone": "0349403011",
+  "ssn": "4452"
+
+}
+]
+
+
